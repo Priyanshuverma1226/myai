@@ -1,8 +1,8 @@
 key = "AIzaSyDT29FJxwNoyEs_d6exFDdGBsn72UC1aD8"
 
 weather = {
-        "X-RapidAPI-Key": "3606da9482mshc0e5523fcbebf7fp1135a3jsne2ec9d814a51",
-        "X-RapidAPI-Host": "yahoo-weather5.p.rapidapi.com"
+       "X-RapidAPI-Key": "9201703bfemsh45994d2a4339484p1680bcjsn1ab5d7e6b1fb",
+	"X-RapidAPI-Host": "yahoo-weather5.p.rapidapi.com"
     }
 
 mail = {
@@ -12,6 +12,6 @@ mail = {
     }
 
 news = {
-        "X-RapidAPI-Key": "<your rapidapi news key>",
+        "X-RapidAPI-Key": "9201703bfemsh45994d2a4339484p1680bcjsn1ab5d7e6b1fb",
         "X-RapidAPI-Host": "real-time-news-data.p.rapidapi.com"
     }
